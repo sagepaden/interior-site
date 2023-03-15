@@ -1,4 +1,10 @@
-.img {
+img {
   float: left;
 }
 
+.column {
+  width: 30%;
+  float: right;
+  color: darkblue;
+  background-color: lightblue;
+}
