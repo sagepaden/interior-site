@@ -1,10 +1,11 @@
 img {
   float: left;
+  width: 30%;
 }
 
 .column {
-  width: 30%;
-  float: right;
+  width: 60%;
+  float: center;
   color: darkblue;
   background-color: lightblue;
 }
